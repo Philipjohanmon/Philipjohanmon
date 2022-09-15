@@ -2,12 +2,12 @@
 
 The Cool kid down the block that always munches on chicken 😎
 
-Knowledge
--HTML
--CSS
--JS
+Knowledge:
+.HTML
+.CSS
+.JS
 
-Experience
+Experience:
 I have studied basic programming for 3 years both front and back
 
 <!---
