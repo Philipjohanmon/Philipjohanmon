@@ -3,7 +3,6 @@
 
 +.
 The Cool kid down the block that always munches on chicken 😎
-+.
 
 
 <!---
