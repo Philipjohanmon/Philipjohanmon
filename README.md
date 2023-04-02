@@ -1,12 +1,5 @@
 @Philipjohanmon
 
-The Cool kid down the block that always munches on chicken 😎
-
-Knowledge:
-HTML
-CSS
-JS
-
 Experience:
 I have studied basic programming for 3 years both front and back
 
